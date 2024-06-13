@@ -1,0 +1,10 @@
+D:\Nikhil\Practice\SampleProjectSolution\SampleProject\bin\Debug\SampleProject.exe.config
+D:\Nikhil\Practice\SampleProjectSolution\SampleProject\bin\Debug\SampleProject.exe
+D:\Nikhil\Practice\SampleProjectSolution\SampleProject\bin\Debug\SampleProject.pdb
+D:\Nikhil\Practice\SampleProjectSolution\SampleProject\obj\Debug\SampleProject.csproj.AssemblyReference.cache
+D:\Nikhil\Practice\SampleProjectSolution\SampleProject\obj\Debug\SampleProject.csproj.CoreCompileInputs.cache
+D:\Nikhil\Practice\SampleProjectSolution\SampleProject\obj\Debug\SampleProject.exe
+D:\Nikhil\Practice\SampleProjectSolution\SampleProject\obj\Debug\SampleProject.pdb
+D:\Nikhil\Practice\SampleProjectSolution\SampleProject\bin\Debug\Newtonsoft.Json.dll
+D:\Nikhil\Practice\SampleProjectSolution\SampleProject\bin\Debug\Newtonsoft.Json.xml
+D:\Nikhil\Practice\SampleProjectSolution\SampleProject\obj\Debug\SampleProject.csproj.CopyComplete
